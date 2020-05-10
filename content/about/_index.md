@@ -6,17 +6,17 @@ title = "Über uns"
 ![Logo Köschinger Stoffe][2]
 Gardinen & mehr!
 
-Inhaberin Anita SChmid
-Bahnhofstraße 2
-85092 Kösching
-Tel. 08456 918 168
-Mail: anitaw.schmid@gmx.de
+Inhaberin Anita Schmid  
+Bahnhofstraße 2  
+85092 Kösching  
+Tel. 08456 918 168  
+Mail: anitaw.schmid@gmx.de  
 
 
 
 
 
-#### Unser Team
+#### Unser Team  
 
 * Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 * Aliquam tincidunt mauris eu risus.
