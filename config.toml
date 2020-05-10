@@ -1,4 +1,4 @@
-baseurl = "https://www.koeschinger-stoffe.de/"
+baseurl = "https://test.koeschinger-stoffe.de/"
 title = "Köschinger Stoffe"
 theme = "creative-portfolio"
 languageCode = "en-us"
