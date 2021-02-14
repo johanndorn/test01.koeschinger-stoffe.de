@@ -52,11 +52,9 @@ disqusShortname = ""
   name = "Über Uns"
   url = "about/"
 
-  
- [[params.navlinks]]
+  [[params.navlinks]]
   name = "Kontakt"
-  url = "contact2/"
-
+  url = "contact/"
   
   [[params.navlinks]]
   name = "Impressum"
@@ -64,5 +62,5 @@ disqusShortname = ""
 
   [params.social]
   email         = "anitaw.schmid@gmx.de"
-
+  linkedin      = "full profile url in linkedin"
  

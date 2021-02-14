@@ -1,28 +1,25 @@
 +++
-date = "2016-11-05T21:05:33+05:30"
+date = "2021-02-05T21:05:33+05:30"
 title = "Über uns"
 +++
 
-![Logo Köschinger Stoffe][2]
-Gardinen & mehr!
+In unserem kleinen, aber feinen Laden in Kösching freuen wir uns darauf, Sie fachkundig beraten zu dürfen.
+![Laden Front][0]
 
-Inhaberin Anita Schmid  
-Bahnhofstraße 2  
-85092 Kösching  
-Tel. 08456 918 168  
-Mail: anitaw.schmid@gmx.de  
 
+#### Gardinen und Zubehör sind unser Spezialgebiet  
+
+![Laden Schaufenster Gardine][1]
 
 
 
+#### Stoffe und Kurzwaren finden Sie bei uns in reichlicher Auswahl.
 
-#### Unser Team  
+![Laden Schaufenster ][2]
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
 
-![visitenkarte][1]
-
-[1]: /img/visitenkarte.png
-[2]: /img/koeschingerstoffe.png
+[0]: /img/portfolio/laden/IMG_0362.JPG
+[1]: /img/portfolio/laden/schaufenster_gardinen.jpg
+[2]: /img/portfolio/laden/IMG_0367.JPG
+[3]: /img/portfolio/laden/IMG_0377.JPG
 
