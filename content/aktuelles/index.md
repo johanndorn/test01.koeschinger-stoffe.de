@@ -21,7 +21,17 @@ title = "Aktuelles - Corona Regelung für den Handel "
 * Mobil:   	+49 1573 4619985 <br>(gerne auch per Whatsapp kontaktieren)<br><br>
 * Mail: 		anitaw.schmid@gmx.de
 * www.koeschinger-stoffe.de
-![vCard][1]
 
 
+
+
+<span> vCard als QR-Code</span>
+<img align="left" width="200" src="/img/qr-code_anita_schmid200.png">
+
+
+<!-- Bilder  
+![vCard][1] 
 [1]: /img/qr-code_anita_schmid200.png
+
+![vCard QRCode](/img/qr-code_anita_schmid200.png#floatright) 
+-->

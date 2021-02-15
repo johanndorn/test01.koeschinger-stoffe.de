@@ -56,6 +56,9 @@ section.background-secondary {
 }
 .img-responsive {
   margin: 0 auto;
+  /* display: inline; */
+  
+  
 }
 .no-space .box {
   margin: 0 -15px;
@@ -1920,7 +1923,7 @@ label {
     text-align: center !important;
   }
   .text-center-xs img {
-    display: block;
+    display: block; 
     margin-left: auto;
     margin-right: auto;
   }
